@@ -1,6 +1,9 @@
 # AuditoriumSeatTicketGenerator
 講堂用 整理券/入場券 生成システム
 
+# 出力サンプル
+![output](https://user-images.githubusercontent.com/87298805/163590052-fb5d6018-2577-4b5f-89e3-b775444775e8.jpg)
+
 # 使い方
 ## 座席指定
 `seats`の定義内容を変更することで、出力したい座席番号をリストで指定します。
