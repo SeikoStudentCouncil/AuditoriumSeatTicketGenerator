@@ -7,7 +7,7 @@
 # 使い方
 ## 座席指定
 `seats`の定義内容を変更することで、出力したい座席番号をリストで指定します。
-スプレッドシートなどを利用することを推奨します。
+[このスプレッドシート](https://docs.google.com/spreadsheets/d/1LGIUdsHhzDByt2CFFDK_X4iPBvbSSsi_LXgiE-UiFr8/edit)のように座席を生成することを推奨します。
 
 【例】 A列のみを出力する場合
 ```
